@@ -2,7 +2,7 @@ const logos = [
     { src: "./media/logos/nike.png", brand: "Nike" },
     { src: "./media/logos/puma.png", brand: "Puma" },
     { src: "./media/logos/google.png", brand: "Google" },
-    { src: "./media/logos/mcdonalds.png", brand: "McDonalds" },
+    { src: "./media/logos/mcdonalds.png", brand: "Mc Donalds" },
     { src: "./media/logos/louisevuitton.png", brand: "Louis Vuitton" },
     { src: "./media/logos/adidas.png", brand: "Adidas" },
 ];
